@@ -5,6 +5,8 @@ Python Library 파이게임 기초부터 공부하기
 <img width="731" height="524" alt="스크린샷 2026-04-17 230848" src="https://github.com/user-attachments/assets/0ee0d8e6-ff43-443c-8c6d-39c701588608" />
 
 
+
+
 ```python
 import pygame, sys, math, time
 
