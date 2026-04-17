@@ -13,7 +13,6 @@ mainScreen = pygame.display.set_mode((720, 480))
 pygame.display.set_caption("RandomPixel")
 mainScreen.fill(WHITE)
 
-
 # 메인 루프
 while True:
 
