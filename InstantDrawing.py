@@ -24,9 +24,6 @@ while True:
         if event.type == pygame.MOUSEBUTTONUP:
                 drawing = False
 
-    
-
-
         if drawing == True:
 
             new_pos_x = int(event.pos[0] // 10) * 10
